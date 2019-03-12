@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 12 462" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-7.5,-29.5)">
+        <g>
+            <g transform="matrix(0.672571,0,7.71659e-18,1.6692,4.83094,-309.8)">
+                <path d="M21.067,479.751L4.712,479.751L6.184,440.81L19.594,440.81L21.067,479.751Z" style="fill:white;stroke:black;stroke-width:0.79px;"/>
+            </g>
+            <g transform="matrix(0.550286,0,6.31357e-18,1.43808,6.40715,-325.92)">
+                <path d="M21.067,479.751L4.712,479.751L6.184,440.81L19.594,440.81L21.067,479.751Z" style="fill:white;stroke:black;stroke-width:0.92px;"/>
+            </g>
+            <g transform="matrix(0.428,0,4.91056e-18,1.00152,7.98331,-226.48)">
+                <path d="M21.067,479.751L4.712,479.751L8.801,440.81L16.978,440.81L21.067,479.751Z" style="fill:white;stroke:black;stroke-width:1.3px;"/>
+            </g>
+            <g transform="matrix(0.366857,0,4.20905e-18,0.821761,8.30463,-221.24)">
+                <path d="M21.067,479.751L4.712,479.751L8.801,440.81L16.978,440.81L21.067,479.751Z" style="fill:white;stroke:black;stroke-width:1.57px;"/>
+            </g>
+            <g transform="matrix(0.305714,0,3.50754e-18,0.71904,9.59272,-234.96)">
+                <path d="M21.067,479.751L4.712,479.751L8.801,440.81L16.978,440.81L21.067,479.751Z" style="fill:white;stroke:black;stroke-width:1.81px;"/>
+            </g>
+            <g transform="matrix(0.244571,0,2.80603e-18,0.61632,10.8476,-241.68)">
+                <path d="M21.067,479.751L4.712,479.751L8.801,440.81L16.978,440.81L21.067,479.751Z" style="fill:white;stroke:black;stroke-width:2.13px;"/>
+            </g>
+        </g>
+    </g>
+</svg>
